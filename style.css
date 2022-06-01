@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-.encabezado {
+#encabezado {
     background-color: #edebc9;
 }
 
@@ -11,7 +11,7 @@
     padding-top: 8%;
 }
 
-.encabezado p {
+#encabezado p {
     font-family: "Roboto Slab";
 }
 
