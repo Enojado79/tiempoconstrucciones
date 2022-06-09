@@ -51,6 +51,7 @@ h1 {
 
 #servicios {
     background-color: #edebc9;
+    font-family: "Roboto Slab";
 }
 
 .llaveEnmano {
@@ -133,6 +134,7 @@ footer {
 }
 
 #contactar {
+    font-family: "Roboto Slab";
     font-size: 25px;
 }
 
